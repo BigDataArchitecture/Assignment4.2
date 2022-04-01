@@ -8,6 +8,12 @@ In this assignment we have done 4 things
 4) Tried to learn parallel processing!
 
 
+**Logic Architecture Diagram**
+<img align="left" alt="GIF" src="https://github.com/BigDataArchitecture/Assignment4.2/blob/main/Images/architecture.drawio%20(1).png" width="980" height="400" />
+<br>
+
+
+
 **1) Airflow Implementation**
 
 Apache Airflow is an open-source tool to programmatically author, schedule, and monitor workflows. 
@@ -40,6 +46,10 @@ airflow d binit
 airflow scheduler
 ```
 
-Once all installation is done put the dag file in airflow/dags folder and schdule it.
+Once all installation is done put the dag file in airflow/dags folder and it will be sceduled it.
+
+Note: Below is our airflow image running for 3 days every hour
+<img align="left" alt="GIF" src="https://github.com/BigDataArchitecture/Assignment4.2/blob/main/Images/AIrlfow.png" width="980" height="400" />
+
 
 
