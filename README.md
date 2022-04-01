@@ -55,6 +55,6 @@ Note: Below is our airflow image running for 3 days every hour
 **WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK**
 
 Contribution:
-Parth: 33%
-Sree: 33%
-Ankana: 33%
+Parth: 50%
+Sree: 25%
+Ankana: 25%
